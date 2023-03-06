@@ -1,3 +1,13 @@
+This is a lightweight reproduction of the Doctolib app, doctor side
+
+It will contain:
+    - A login page
+    - A calendar page with all the scheduled meetings
+    - A map page
+
+Further evolutions could include:
+    - An availability page to setup the available times for meeting scheduling
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
